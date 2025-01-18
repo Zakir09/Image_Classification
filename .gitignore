@@ -1,0 +1,5 @@
+venv/
+
+model/requirements.txt
+
+model/.ipynb_checkpoints
