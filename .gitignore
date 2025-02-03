@@ -1,5 +1,5 @@
 venv/
 
-model/requirements.txt
-
 model/.ipynb_checkpoints
+
+server/__pycache__

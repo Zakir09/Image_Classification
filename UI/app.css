@@ -1,0 +1,79 @@
+body {
+    background-color: #f8f9fa;
+    font-family: "Arial", sans-serif;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.dropzone {
+    border: 2px dashed #6c757d;
+    padding: 20px;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.dropzone:hover {
+    border-color: #007bff;
+}
+
+.dz-message {
+    color: #6c757d;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card .btn-success {
+    width: 100%;
+}
+
+#error {
+    display: block;
+    font-size: 1.2rem;
+}
+
+.table th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.prediction-card {
+    width: 18rem;
+    margin: 10px;
+    border-radius: 15px;
+    transition: all 0.3s ease;
+}
+
+.prediction-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.prediction-card img {
+    border-radius: 10px;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.prediction-card-body {
+    padding: 10px;
+}
+
+.prediction-card-body h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.prediction-card-body p {
+    font-size: 1rem;
+    color: #6c757d;
+}
