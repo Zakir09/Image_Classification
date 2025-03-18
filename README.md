@@ -1,4 +1,4 @@
-# Political Figure Image Classifier
+# Project: Political Figure Image Classifier
 
 ## Table of Contents
 
